@@ -1,0 +1,1292 @@
+2022/12/28 19:22:42 ::  OS Caption is : Microsoft Windows 11 Pro
+2022/12/28 19:22:42 ::  OS Version is : 10.0.22621
+2022/12/28 19:22:42 :: Enlisting drivers under 'system devices' node in Device Manager
+2022/12/28 19:22:42 :: **************************************************************************
+2022/12/28 19:22:42 :: Device ID: USB\VID_04D9&PID_FC38&MI_02\7&17B30DB7&0&0002
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_1458A184&REV_1003\5&224B3EE9&0&0001
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\PNP0200\4&100704BB&0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: HID\VIRTUALDEVICE&10&COL04\2&1F1CA0F9&0&0003
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\PNP0C02\0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: USB\VID_048D&PID_5702\6&28CF390B&0&14
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL04\8&37EBFC11&0&0003
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: USB\VID_0C45&PID_6536&MI_03\7&29EA518C&0&0003
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: PCI\VEN_1022&DEV_43E9&SUBSYS_02011B21&REV_00\4&5F22ECF&0&020A
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&26ADBEE0&0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: HID\VID_0C45&PID_7603&MI_00\8&F814E48&0&0000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\AMDIF030\0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_B0021458&REV_51\4&9B70DCB&0&0043
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Standard SATA AHCI Controller Found with device id PCI\VEN_1022&DEV_7901.Hence setting property AHCIRAID
+2022/12/28 19:22:42 :: Device ID: ROOT\VOLMGR\0000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: DISPLAY\XXX0000\5&2D795BE2&0&UID16641
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000007500000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0099&SUBSYS_104386BB&REV_1001\5&1EF987A&0&0001
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: UEFI\RES_{00000000-0000-0000-0000-000000000000}\0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: PCI\VEN_10DE&DEV_1AED&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0319
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: USB\VID_0C45&PID_6536\SN0001
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ROOT\VMBUS\0000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ROOT\BASICDISPLAY\0000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\PNP0C14\GSADEV0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\AMDI0030\0
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ROOT\VMS_VSMP\0000
+2022/12/28 19:22:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:42 :: Device ID: ACPI\THERMALZONE\TZ10
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: UMB\UMB\1&841921D&0&TERMINPUT_BUS
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\WPDBUSENUM\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_148A&SUBSYS_148A1022&REV_00\4&D573D7&0&0039
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ACPI\ACPI0010\1
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ACPI\PNP0C02\4&1FDE7688&0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: HID\VIRTUALDEVICE&10&COL05\2&1F1CA0F9&0&0004
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1480&SUBSYS_14801022&REV_00\3&11583659&0&00
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: USB\VID_0781&PID_5567\03002819091421001102
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL05\8&37EBFC11&0&0004
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{014FB57D-59AC-4ECA-BF7B-621ADEC491D8}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_50011458&REV_51\3&11583659&0&A3
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&43
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\VID\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: CORSAIRBUS\VIRTUALDEVICE&10\1&1A590E2C&0&{E7FD4ACE-EE13-11E2-AFDA-000C29100502}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\COMPOSITEBUS\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\VDRVROOT\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\RADIO\{000AFC24-5114-46CF-8139-574102FB380A}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000006500000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\ISCSIPRT\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\SPACEPORT\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ACPI\PNP0501\0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_SAP\7&5AC7249&0&13
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\KDNIC\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SCSI\DISK&VEN_WDC&PROD_WDS500G2B0B-00YS\5&25FEFDC&0&050000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: HID\VID_04D9&PID_FC38&MI_00\8&17309F97&0&0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ACPI\THERMALZONE\UAD0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_50011458&REV_61\3&11583659&0&A0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ACPI\PNP0800\4&100704BB&0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: USB\ROOT_HUB30\5&25319CDD&0&0
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{2A4F0F46-2F1F-4E1F-8480-ADB6E2C80E32}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL01\8&307DDBED&0&0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: SWD\PRINTENUM\{D2A06318-E9EC-4457-882C-616D8713DA55}
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: UMB\UMB\1&841921D&0&TS_USB_HUB_ENUMERATOR
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: HID\VIRTUALDEVICE&10&COL01\2&1F1CA0F9&0&0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: ROOT\WINDOWSHELLOFACESOFTWAREDRIVER\0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_43EB&SUBSYS_10621B21&REV_00\4&5F22ECF&0&010A
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Standard SATA AHCI Controller Found with device id PCI\VEN_1022&DEV_43EB.Hence setting property AHCIRAID
+2022/12/28 19:22:43 :: Device ID: USB\VID_2516&PID_1011&MI_00\7&3800CE1D&0&0000
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_10DE&DEV_1AEC&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0219
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:43 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18
+2022/12/28 19:22:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL01\8&37EBFC11&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL06\8&37EBFC11&0&0005
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\PRINTENUM\{3314D99E-CC64-44D6-9A46-0C308674BFED}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: USB\VID_0C45&PID_6536&MI_00\7&29EA518C&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ROOT\UMBUS\0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI\PNP0100\4&100704BB&0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI\PNP0C01\C8
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\PRINTENUM\{AAC42025-1AD2-4EB6-9478-CB8CE72CAC08}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ROOT\ACPI_HAL\0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: USB\VID_0C45&PID_7603&MI_01\7&33E2C47&0&0001
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\HID_DEVICE_SYSTEM_VHF\2&EF1376C&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_43EE&SUBSYS_11421B21&REV_00\4&5F22ECF&0&000A
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI\PNP0C14\AOD
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI\PNP0A08\0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: USB\VID_0C45&PID_7603&MI_00\7&33E2C47&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_16\5EFD984DC018000000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: DISPLAY\SAM0F91\5&2D795BE2&0&UID16642
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: COMPOSITEBUS\MS_IMPLAT_MP\{0D36CEA2-F4D8-4A05-BA82-90B380584703}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ROOT\EYEGAZE\0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ROOT\VPCIVSP\0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL02\8&307DDBED&0&0001
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI_HAL\PNP0C08\0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HTREE\ROOT\0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ROOT\BASICRENDER\0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_50071458&REV_00\4&1FDE7688&0&0341
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_048D&PID_5702&COL01\7&34D2615B&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: UMB\UMB\1&841921D&0&RDCAMERA_BUS
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: UMB\UMB\1&841921D&0&TSBUS
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1487&SUBSYS_A1841458&REV_00\4&1FDE7688&0&0441
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: SWD\PRINTENUM\{0654C3FC-4A74-451C-84E7-2D55A89DC515}
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_04D9&PID_FC38&MI_01\8&CA69E2B&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: ACPI_HAL\UEFI\0
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: USB\VID_04D9&PID_FC38&MI_00\7&17B30DB7&0&0000
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: PCI\VEN_1022&DEV_1485&SUBSYS_14851022&REV_00\4&1FDE7688&0&0041
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VIRTUALDEVICE&10&COL02\2&1F1CA0F9&0&0001
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: USB\VID_2516&PID_1011&MI_01\7&3800CE1D&0&0001
+2022/12/28 19:22:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:44 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL02\8&37EBFC11&0&0001
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\MSFT0101\1
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&26ADBEE0&0
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: STORAGE\VOLUME\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\PNP0C02\15
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: PCI\VEN_1022&DEV_43EA&SUBSYS_33081B21&REV_00\5&8FCB7C3&0&48020A
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000007444E00000
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: PCI\VEN_10DE&DEV_1AEB&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0119
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ROOT\STORVSP\0000
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ROOT\UNNAMED_DEVICE\0000
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ROOT\UNNAMED_DEVICE\0001
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ROOT\UNNAMED_DEVICE\0002
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03002819091421001102&0
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\PNP0C0C\AA
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: TS_USB_HUB_ENUMERATOR\UMB\2&30D3618&0&TS_USB_HUB
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: HID\VID_048D&PID_5702&COL02\7&34D2615B&0&0001
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\MMDEVAPI\{0.0.1.00000000}.{927991F0-BE95-4384-9240-38209FF1CBC7}
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&26ADBEE0&0
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ROOT\NDISVIRTUALBUS\0000
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: USB\VID_04D9&PID_FC38&MI_01\7&17B30DB7&0&0001
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\0
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\1
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\2
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\3
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\4
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\5
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\6
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\7
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\8
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\9
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\A
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\B
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: HID\VIRTUALDEVICE&10&COL03\2&1F1CA0F9&0&0002
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL03\8&37EBFC11&0&0002
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: PCI\VEN_1022&DEV_1486&SUBSYS_14861022&REV_00\4&1FDE7688&0&0141
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{578B744A-05BB-49CD-B000-0CC0681F1447}
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: USB\VID_04D9&PID_FC38\6&28CF390B&0&6
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: USB\VID_0C45&PID_7603\6&2838F1DC&0&4
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: SWD\DAFUPNPPROVIDER\UUID:F510EC15-1BCF-49F4-BD7B-DBF7DE8E3EA3
+2022/12/28 19:22:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:45 :: Device ID: ACPI\PNP0C02\700
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ACPI\PNP0B00\4&100704BB&0
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: HID\VID_2516&PID_1011&MI_00\8&1A8D23F&0&0000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\PRINTENUM\{5F86FE90-1CF0-4072-B4AF-699770A17468}
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\PRINTENUM\{E47FE4A8-C4F6-4433-8F38-7F8C15DE5C21}
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: PCI\VEN_10DE&DEV_2184&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0019
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ROOT\MSSMBIOS\0000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ACPI\PNP0000\4&100704BB&0
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000000100000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: USB\ROOT_HUB30\5&23F8E3F5&0&0
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&0A
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\PRINTENUM\{43A8E2F1-4B3D-4F06-BE26-170433D200DD}
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&19
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\COMPUTER\MFG_GIGABYTE_TECHNOLOGY_CO.__LTD.&FAM_B550_MB&PROD_B550M_S2H&SKU_DEFAULT_STRING
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ROOT\SYSTEM\0000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ROOT\SYSTEM\0001
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ROOT\SYSTEM\0002
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: USB\VID_0BDA&PID_C811\123456
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: USB\VID_2516&PID_1011\A202105291658
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: HID\VID_2516&PID_1011&MI_01\8&25801001&0&0000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: ROOT\RDPBUS\0000
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: VHF\HID_DEVICE_SYSTEM_VHF\1&13779482&0&{EDE8B365-11BA-5682-A346-5FCE54B083A1}
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: USB\ROOT_HUB30\5&201A262C&0&0
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+2022/12/28 19:22:46 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:22:46 :: Storing Device ID of controllers present on system to be used for post-install configuration.
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - Querying
+2022/12/28 19:22:47 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+2022/12/28 19:27:24 :: ProductCode value obtained from session : {03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}
+2022/12/28 19:27:25 :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}\ is : 75056
+2022/12/28 19:27:25 :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_StoreMI\EstimatedSize
+2022/12/28 19:30:40 ::  OS Caption is : Microsoft Windows 11 Pro
+2022/12/28 19:30:40 ::  OS Version is : 10.0.22621
+2022/12/28 19:30:40 :: Enlisting drivers under 'system devices' node in Device Manager
+2022/12/28 19:30:40 :: **************************************************************************
+2022/12/28 19:30:40 :: Device ID: USB\VID_04D9&PID_FC38&MI_02\7&17B30DB7&0&0002
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_1458A184&REV_1003\5&224B3EE9&0&0001
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\PNP0200\4&100704BB&0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: HID\VIRTUALDEVICE&10&COL04\2&1F1CA0F9&0&0003
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\PNP0C02\0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: USB\VID_048D&PID_5702\6&28CF390B&0&14
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL04\8&37EBFC11&0&0003
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: USB\VID_0C45&PID_6536&MI_03\7&29EA518C&0&0003
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: PCI\VEN_1022&DEV_43E9&SUBSYS_02011B21&REV_00\4&5F22ECF&0&020A
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&26ADBEE0&0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: HID\VID_0C45&PID_7603&MI_00\8&F814E48&0&0000
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\AMDIF030\0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_B0021458&REV_51\4&9B70DCB&0&0043
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: StoreMI Bottom Device Found with device id PCI\VEN_1022&DEV_7901.Hence setting property AHCIRAID
+2022/12/28 19:30:40 :: Device ID: ROOT\VOLMGR\0000
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: DISPLAY\XXX0000\5&2D795BE2&0&UID16641
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000007500000
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0099&SUBSYS_104386BB&REV_1001\5&1EF987A&0&0001
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: UEFI\RES_{00000000-0000-0000-0000-000000000000}\0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: PCI\VEN_10DE&DEV_1AED&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0319
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: USB\VID_0C45&PID_6536\SN0001
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ROOT\VMBUS\0000
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ROOT\BASICDISPLAY\0000
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\PNP0C14\GSADEV0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ACPI\AMDI0030\0
+2022/12/28 19:30:40 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:40 :: Device ID: ROOT\VMS_VSMP\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\THERMALZONE\TZ10
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: UMB\UMB\1&841921D&0&TERMINPUT_BUS
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\WPDBUSENUM\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_148A&SUBSYS_148A1022&REV_00\4&D573D7&0&0039
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\ACPI0010\1
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\PNP0C02\4&1FDE7688&0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: HID\VIRTUALDEVICE&10&COL05\2&1F1CA0F9&0&0004
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_1480&SUBSYS_14801022&REV_00\3&11583659&0&00
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: USB\VID_0781&PID_5567\03002819091421001102
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL05\8&37EBFC11&0&0004
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{014FB57D-59AC-4ECA-BF7B-621ADEC491D8}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_50011458&REV_51\3&11583659&0&A3
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&43
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\VID\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: CORSAIRBUS\VIRTUALDEVICE&10\1&1A590E2C&0&{E7FD4ACE-EE13-11E2-AFDA-000C29100502}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\COMPOSITEBUS\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\VDRVROOT\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\RADIO\{000AFC24-5114-46CF-8139-574102FB380A}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000006500000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\ISCSIPRT\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\SPACEPORT\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\PNP0501\0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_SAP\7&5AC7249&0&13
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ROOT\KDNIC\0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SCSI\DISK&VEN_WDC&PROD_WDS500G2B0B-00YS\5&25FEFDC&0&050000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: HID\VID_04D9&PID_FC38&MI_00\8&17309F97&0&0000
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\THERMALZONE\UAD0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_50011458&REV_61\3&11583659&0&A0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: ACPI\PNP0800\4&100704BB&0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: USB\ROOT_HUB30\5&25319CDD&0&0
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{2A4F0F46-2F1F-4E1F-8480-ADB6E2C80E32}
+2022/12/28 19:30:41 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:41 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL01\8&307DDBED&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\PRINTENUM\{D2A06318-E9EC-4457-882C-616D8713DA55}
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: UMB\UMB\1&841921D&0&TS_USB_HUB_ENUMERATOR
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: HID\VIRTUALDEVICE&10&COL01\2&1F1CA0F9&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ROOT\WINDOWSHELLOFACESOFTWAREDRIVER\0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_43EB&SUBSYS_10621B21&REV_00\4&5F22ECF&0&010A
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: StoreMI Bottom Device Found with device id PCI\VEN_1022&DEV_43EB.Hence setting property AHCIRAID
+2022/12/28 19:30:42 :: Device ID: USB\VID_2516&PID_1011&MI_00\7&3800CE1D&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_10DE&DEV_1AEC&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0219
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL01\8&37EBFC11&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL06\8&37EBFC11&0&0005
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\PRINTENUM\{3314D99E-CC64-44D6-9A46-0C308674BFED}
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: USB\VID_0C45&PID_6536&MI_00\7&29EA518C&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ROOT\UMBUS\0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ACPI\PNP0100\4&100704BB&0
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ACPI\PNP0C01\C8
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\PRINTENUM\{AAC42025-1AD2-4EB6-9478-CB8CE72CAC08}
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ROOT\ACPI_HAL\0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: USB\VID_0C45&PID_7603&MI_01\7&33E2C47&0&0001
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: HID\HID_DEVICE_SYSTEM_VHF\2&EF1376C&0&0000
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_43EE&SUBSYS_11421B21&REV_00\4&5F22ECF&0&000A
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ACPI\PNP0C14\AOD
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: ACPI\PNP0A08\0
+2022/12/28 19:30:42 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:42 :: Device ID: PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: USB\VID_0C45&PID_7603&MI_00\7&33E2C47&0&0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_16\5EFD984DC018000000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: DISPLAY\SAM0F91\5&2D795BE2&0&UID16642
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: COMPOSITEBUS\MS_IMPLAT_MP\{0D36CEA2-F4D8-4A05-BA82-90B380584703}
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ROOT\EYEGAZE\0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ROOT\VPCIVSP\0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL02\8&307DDBED&0&0001
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ACPI_HAL\PNP0C08\0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HTREE\ROOT\0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ROOT\BASICRENDER\0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_50071458&REV_00\4&1FDE7688&0&0341
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HID\VID_048D&PID_5702&COL01\7&34D2615B&0&0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: UMB\UMB\1&841921D&0&RDCAMERA_BUS
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: UMB\UMB\1&841921D&0&TSBUS
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_1022&DEV_1487&SUBSYS_A1841458&REV_00\4&1FDE7688&0&0441
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: SWD\PRINTENUM\{0654C3FC-4A74-451C-84E7-2D55A89DC515}
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HID\VID_04D9&PID_FC38&MI_01\8&CA69E2B&0&0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ACPI_HAL\UEFI\0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: USB\VID_04D9&PID_FC38&MI_00\7&17B30DB7&0&0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_1022&DEV_1485&SUBSYS_14851022&REV_00\4&1FDE7688&0&0041
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HID\VIRTUALDEVICE&10&COL02\2&1F1CA0F9&0&0001
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: USB\VID_2516&PID_1011&MI_01\7&3800CE1D&0&0001
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL02\8&37EBFC11&0&0001
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ACPI\MSFT0101\1
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&26ADBEE0&0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: STORAGE\VOLUME\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: USB\VID_05AC&PID_12A8\0000811000097534146B801E
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ACPI\PNP0C02\15
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_1022&DEV_43EA&SUBSYS_33081B21&REV_00\5&8FCB7C3&0&48020A
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000007444E00000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: PCI\VEN_10DE&DEV_1AEB&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0119
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ROOT\STORVSP\0000
+2022/12/28 19:30:43 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:43 :: Device ID: ROOT\UNNAMED_DEVICE\0000
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ROOT\UNNAMED_DEVICE\0001
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ROOT\UNNAMED_DEVICE\0002
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03002819091421001102&0
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\PNP0C0C\AA
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: TS_USB_HUB_ENUMERATOR\UMB\2&30D3618&0&TS_USB_HUB
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: HID\VID_048D&PID_5702&COL02\7&34D2615B&0&0001
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\MMDEVAPI\{0.0.1.00000000}.{927991F0-BE95-4384-9240-38209FF1CBC7}
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&26ADBEE0&0
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ROOT\NDISVIRTUALBUS\0000
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: USB\VID_04D9&PID_FC38&MI_01\7&17B30DB7&0&0001
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\0
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\1
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\2
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\3
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\4
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\5
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\6
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\7
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\8
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\9
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\A
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\B
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: HID\VIRTUALDEVICE&10&COL03\2&1F1CA0F9&0&0002
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL03\8&37EBFC11&0&0002
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: PCI\VEN_1022&DEV_1486&SUBSYS_14861022&REV_00\4&1FDE7688&0&0141
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{578B744A-05BB-49CD-B000-0CC0681F1447}
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: USB\VID_04D9&PID_FC38\6&28CF390B&0&6
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: USB\VID_0C45&PID_7603\6&2838F1DC&0&4
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\DAFUPNPPROVIDER\UUID:F510EC15-1BCF-49F4-BD7B-DBF7DE8E3EA3
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\PNP0C02\700
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\PNP0B00\4&100704BB&0
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: HID\VID_2516&PID_1011&MI_00\8&1A8D23F&0&0000
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\PRINTENUM\{5F86FE90-1CF0-4072-B4AF-699770A17468}
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: SWD\PRINTENUM\{E47FE4A8-C4F6-4433-8F38-7F8C15DE5C21}
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: PCI\VEN_10DE&DEV_2184&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0019
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ROOT\MSSMBIOS\0000
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: ACPI\PNP0000\4&100704BB&0
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000000100000
+2022/12/28 19:30:44 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:44 :: Device ID: USB\ROOT_HUB30\5&23F8E3F5&0&0
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&0A
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: SWD\PRINTENUM\{43A8E2F1-4B3D-4F06-BE26-170433D200DD}
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&19
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: SWD\COMPUTER\MFG_GIGABYTE_TECHNOLOGY_CO.__LTD.&FAM_B550_MB&PROD_B550M_S2H&SKU_DEFAULT_STRING
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: ROOT\SYSTEM\0000
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: ROOT\SYSTEM\0001
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: ROOT\SYSTEM\0002
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: USB\VID_0BDA&PID_C811\123456
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: USB\VID_2516&PID_1011\A202105291658
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: HID\VID_2516&PID_1011&MI_01\8&25801001&0&0000
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: ROOT\RDPBUS\0000
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: VHF\HID_DEVICE_SYSTEM_VHF\1&13779482&0&{EDE8B365-11BA-5682-A346-5FCE54B083A1}
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: USB\ROOT_HUB30\5&201A262C&0&0
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+2022/12/28 19:30:45 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:45 :: Storing Device ID of controllers present on system to be used for post-install configuration.
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Duration of existing  AMDAutoUpdate task is : 15
+2022/12/28 19:30:45 :: Function TaskSchdlr - Deleting AMDAutoUpdate since it is present
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:45 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - Querying
+2022/12/28 19:30:46 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+2022/12/28 19:30:46 :: ProductCode value obtained from session : {03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}
+2022/12/28 19:30:46 :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}\ is : 75056
+2022/12/28 19:30:46 :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_StoreMI\EstimatedSize
+2022/12/28 19:30:56 ::  OS Caption is : Microsoft Windows 11 Pro
+2022/12/28 19:30:56 ::  OS Version is : 10.0.22621
+2022/12/28 19:30:56 :: Enlisting drivers under 'system devices' node in Device Manager
+2022/12/28 19:30:56 :: **************************************************************************
+2022/12/28 19:30:56 :: Device ID: USB\VID_04D9&PID_FC38&MI_02\7&17B30DB7&0&0002
+2022/12/28 19:30:56 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:56 :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_1458A184&REV_1003\5&224B3EE9&0&0001
+2022/12/28 19:30:56 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\PNP0200\4&100704BB&0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: HID\VIRTUALDEVICE&10&COL04\2&1F1CA0F9&0&0003
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\PNP0C02\0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: USB\VID_048D&PID_5702\6&28CF390B&0&14
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL04\8&37EBFC11&0&0003
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: USB\VID_0C45&PID_6536&MI_03\7&29EA518C&0&0003
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_43E9&SUBSYS_02011B21&REV_00\4&5F22ECF&0&020A
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&26ADBEE0&0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: HID\VID_0C45&PID_7603&MI_00\8&F814E48&0&0000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\AMDIF030\0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_B0021458&REV_51\4&9B70DCB&0&0043
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: StoreMI Bottom Device Found with device id PCI\VEN_1022&DEV_7901.Hence setting property AHCIRAID
+2022/12/28 19:30:57 :: Device ID: ROOT\VOLMGR\0000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: DISPLAY\XXX0000\5&2D795BE2&0&UID16641
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000007500000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0099&SUBSYS_104386BB&REV_1001\5&1EF987A&0&0001
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: UEFI\RES_{00000000-0000-0000-0000-000000000000}\0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_10DE&DEV_1AED&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0319
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: USB\VID_0C45&PID_6536\SN0001
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ROOT\VMBUS\0000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ROOT\BASICDISPLAY\0000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\PNP0C14\GSADEV0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\AMDI0030\0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ROOT\VMS_VSMP\0000
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\THERMALZONE\TZ10
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: UMB\UMB\1&841921D&0&TERMINPUT_BUS
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\WPDBUSENUM\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_148A&SUBSYS_148A1022&REV_00\4&D573D7&0&0039
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\ACPI0010\1
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: ACPI\PNP0C02\4&1FDE7688&0
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: HID\VIRTUALDEVICE&10&COL05\2&1F1CA0F9&0&0004
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: PCI\VEN_1022&DEV_1480&SUBSYS_14801022&REV_00\3&11583659&0&00
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: USB\VID_0781&PID_5567\03002819091421001102
+2022/12/28 19:30:57 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:57 :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL05\8&37EBFC11&0&0004
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{014FB57D-59AC-4ECA-BF7B-621ADEC491D8}
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_50011458&REV_51\3&11583659&0&A3
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&43
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\VID\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: CORSAIRBUS\VIRTUALDEVICE&10\1&1A590E2C&0&{E7FD4ACE-EE13-11E2-AFDA-000C29100502}
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\COMPOSITEBUS\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\VDRVROOT\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SWD\RADIO\{000AFC24-5114-46CF-8139-574102FB380A}
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000006500000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\ISCSIPRT\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\SPACEPORT\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ACPI\PNP0501\0
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_SAP\7&5AC7249&0&13
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\KDNIC\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SCSI\DISK&VEN_WDC&PROD_WDS500G2B0B-00YS\5&25FEFDC&0&050000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: HID\VID_04D9&PID_FC38&MI_00\8&17309F97&0&0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ACPI\THERMALZONE\UAD0
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_50011458&REV_61\3&11583659&0&A0
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ACPI\PNP0800\4&100704BB&0
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: USB\ROOT_HUB30\5&25319CDD&0&0
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{2A4F0F46-2F1F-4E1F-8480-ADB6E2C80E32}
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL01\8&307DDBED&0&0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: SWD\PRINTENUM\{D2A06318-E9EC-4457-882C-616D8713DA55}
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: UMB\UMB\1&841921D&0&TS_USB_HUB_ENUMERATOR
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: HID\VIRTUALDEVICE&10&COL01\2&1F1CA0F9&0&0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: ROOT\WINDOWSHELLOFACESOFTWAREDRIVER\0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_43EB&SUBSYS_10621B21&REV_00\4&5F22ECF&0&010A
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: StoreMI Bottom Device Found with device id PCI\VEN_1022&DEV_43EB.Hence setting property AHCIRAID
+2022/12/28 19:30:58 :: Device ID: USB\VID_2516&PID_1011&MI_00\7&3800CE1D&0&0000
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_10DE&DEV_1AEC&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0219
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:58 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18
+2022/12/28 19:30:58 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL01\8&37EBFC11&0&0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL06\8&37EBFC11&0&0005
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\PRINTENUM\{3314D99E-CC64-44D6-9A46-0C308674BFED}
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: USB\VID_0C45&PID_6536&MI_00\7&29EA518C&0&0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ROOT\UMBUS\0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ACPI\PNP0100\4&100704BB&0
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ACPI\PNP0C01\C8
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\PRINTENUM\{AAC42025-1AD2-4EB6-9478-CB8CE72CAC08}
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ROOT\ACPI_HAL\0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: USB\VID_0C45&PID_7603&MI_01\7&33E2C47&0&0001
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HID\HID_DEVICE_SYSTEM_VHF\2&EF1376C&0&0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_43EE&SUBSYS_11421B21&REV_00\4&5F22ECF&0&000A
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ACPI\PNP0C14\AOD
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ACPI\PNP0A08\0
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: USB\VID_0C45&PID_7603&MI_00\7&33E2C47&0&0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_16\5EFD984DC018000000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: DISPLAY\SAM0F91\5&2D795BE2&0&UID16642
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: COMPOSITEBUS\MS_IMPLAT_MP\{0D36CEA2-F4D8-4A05-BA82-90B380584703}
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ROOT\EYEGAZE\0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ROOT\VPCIVSP\0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HID\VID_04D9&PID_FC38&MI_02&COL02\8&307DDBED&0&0001
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ACPI_HAL\PNP0C08\0
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HTREE\ROOT\0
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: ROOT\BASICRENDER\0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_50071458&REV_00\4&1FDE7688&0&0341
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: HID\VID_048D&PID_5702&COL01\7&34D2615B&0&0000
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: UMB\UMB\1&841921D&0&RDCAMERA_BUS
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: UMB\UMB\1&841921D&0&TSBUS
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: PCI\VEN_1022&DEV_1487&SUBSYS_A1841458&REV_00\4&1FDE7688&0&0441
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:30:59 :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+2022/12/28 19:30:59 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: SWD\PRINTENUM\{0654C3FC-4A74-451C-84E7-2D55A89DC515}
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: HID\VID_04D9&PID_FC38&MI_01\8&CA69E2B&0&0000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI_HAL\UEFI\0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: USB\VID_04D9&PID_FC38&MI_00\7&17B30DB7&0&0000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: PCI\VEN_1022&DEV_1485&SUBSYS_14851022&REV_00\4&1FDE7688&0&0041
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: HID\VIRTUALDEVICE&10&COL02\2&1F1CA0F9&0&0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: USB\VID_2516&PID_1011&MI_01\7&3800CE1D&0&0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL02\8&37EBFC11&0&0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\MSFT0101\1
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&26ADBEE0&0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: STORAGE\VOLUME\_??_USBSTOR#DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00#03002819091421001102&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: USB\VID_05AC&PID_12A8\0000811000097534146B801E
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\PNP0C02\15
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: PCI\VEN_1022&DEV_43EA&SUBSYS_33081B21&REV_00\5&8FCB7C3&0&48020A
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000007444E00000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: PCI\VEN_10DE&DEV_1AEB&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0119
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ROOT\STORVSP\0000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ROOT\UNNAMED_DEVICE\0000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ROOT\UNNAMED_DEVICE\0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ROOT\UNNAMED_DEVICE\0002
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03002819091421001102&0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\PNP0C0C\AA
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: TS_USB_HUB_ENUMERATOR\UMB\2&30D3618&0&TS_USB_HUB
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: HID\VID_048D&PID_5702&COL02\7&34D2615B&0&0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: SWD\MMDEVAPI\{0.0.1.00000000}.{927991F0-BE95-4384-9240-38209FF1CBC7}
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&26ADBEE0&0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ROOT\NDISVIRTUALBUS\0000
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: USB\VID_04D9&PID_FC38&MI_01\7&17B30DB7&0&0001
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\0
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\1
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\2
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\3
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\4
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\5
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:00 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\6
+2022/12/28 19:31:00 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\7
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\8
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\9
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\A
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_5_3600_6-CORE_PROCESSOR______________\B
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: HID\VIRTUALDEVICE&10&COL03\2&1F1CA0F9&0&0002
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: HID\VID_0C45&PID_7603&MI_01&COL03\8&37EBFC11&0&0002
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: PCI\VEN_1022&DEV_1486&SUBSYS_14861022&REV_00\4&1FDE7688&0&0141
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{578B744A-05BB-49CD-B000-0CC0681F1447}
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\VID_04D9&PID_FC38\6&28CF390B&0&6
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\VID_0C45&PID_7603\6&2838F1DC&0&4
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\DAFUPNPPROVIDER\UUID:F510EC15-1BCF-49F4-BD7B-DBF7DE8E3EA3
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\PNP0C02\700
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\PNP0B00\4&100704BB&0
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: HID\VID_2516&PID_1011&MI_00\8&1A8D23F&0&0000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\PRINTENUM\{5F86FE90-1CF0-4072-B4AF-699770A17468}
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\PRINTENUM\{E47FE4A8-C4F6-4433-8F38-7F8C15DE5C21}
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: PCI\VEN_10DE&DEV_2184&SUBSYS_86BB1043&REV_A1\4&2283F625&0&0019
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ROOT\MSSMBIOS\0000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ACPI\PNP0000\4&100704BB&0
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: STORAGE\VOLUME\{FAEA7B71-7D1D-11ED-8638-806E6F6E6963}#0000000000100000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\ROOT_HUB30\5&23F8E3F5&0&0
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&0A
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\PRINTENUM\{43A8E2F1-4B3D-4F06-BE26-170433D200DD}
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&19
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\COMPUTER\MFG_GIGABYTE_TECHNOLOGY_CO.__LTD.&FAM_B550_MB&PROD_B550M_S2H&SKU_DEFAULT_STRING
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ROOT\SYSTEM\0000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ROOT\SYSTEM\0001
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ROOT\SYSTEM\0002
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\VID_0BDA&PID_C811\123456
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\VID_2516&PID_1011\A202105291658
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: HID\VID_2516&PID_1011&MI_01\8&25801001&0&0000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: ROOT\RDPBUS\0000
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: VHF\HID_DEVICE_SYSTEM_VHF\1&13779482&0&{EDE8B365-11BA-5682-A346-5FCE54B083A1}
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: USB\ROOT_HUB30\5&201A262C&0&0
+2022/12/28 19:31:01 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:01 :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+2022/12/28 19:31:02 :: Checking whether AHCI RAID Driver Device ID is present on system.
+2022/12/28 19:31:02 :: Storing Device ID of controllers present on system to be used for post-install configuration.
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Duration of existing  AMDAutoUpdate task is : 15
+2022/12/28 19:31:02 :: Function TaskSchdlr - Deleting AMDAutoUpdate since it is present
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - Querying
+2022/12/28 19:31:02 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+2022/12/28 19:31:02 :: ProductCode value obtained from session : {03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}
+2022/12/28 19:31:02 :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{03554C1E-FCBE-4CC3-8EC9-D2FD236842FC}\ is : 75056
+2022/12/28 19:31:02 :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_StoreMI\EstimatedSize
